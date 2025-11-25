@@ -59,6 +59,13 @@ When I’m not coding, I enjoy **designing interfaces with Figma, experimenting 
 
 ## 🚀 Featured Projects
 
+### 🧒 [S.A.R.A.  Smart Analytical Reasoning Assistant](https://aisara.netlify.app/)
+
+**AI powered interactive personal assistant with vision and voice manages authentication and perform roll based utility servises**  
+_By Nur Hasan Masum | August 18, 2025_  
+ capable of providing weather updates, conducting web searches, sending emails, managing Spotify, and offering special services upon identity verification, all while maintaining a classy butler persona.
+---
+
 ### 🧒 [KidEd](https://kided.netlify.app/)
 
 **AI powered interactive education platform for Kids**  
