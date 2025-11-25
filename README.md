@@ -82,7 +82,7 @@ A web-based app that lets users create personalized comics for educational and e
 
 ---
 
-### 🩺 [gBaymax](https://gbaymax.netlify.app/)
+### 🩺 [gBaymax](https://huggingface.co/masumhasan/gemma-3N-finetunex)
 
 **Offline Healthcare & Personal Assistant powered by Gemma 3n**  
 _By Nur Hasan Masum | January 18, 2025_  
